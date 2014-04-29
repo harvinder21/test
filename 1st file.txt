@@ -2,4 +2,5 @@ file 1 with some line
 this is 1st file are we are testing github 
 
 adding this line in sprint one and merge with master directory
+these lines are added while we are in github . we are trying to syn this file with origin master ie local github.
 
